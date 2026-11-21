@@ -1,0 +1,40 @@
+# Florida Tree Service Match
+
+> Florida Tree Service Match is a free referral service that connects Florida homeowners with up to 3 independent local tree service companies. It is not a contractor and does not perform tree service work. Content cites Florida statutes, city and county tree codes and permit offices, and NOAA/NWS storm records, and labels national estimates as such.
+
+Last updated: 2026-11-21
+
+## Key facts (sourced on the linked pages)
+- s. 163.045 F.S.: local governments may not require a notice, permit, fee or mitigation to prune, trim or remove a tree at a single-family residence if the owner has signed documentation from an ISA-certified arborist or Florida-licensed landscape architect that it poses an unacceptable risk.
+- St. Augustine: permit for trees 3 inches DBH or larger; Southern Red Cedar protected from 2 feet tall (City of St. Augustine).
+- Jacksonville Beach: trees 6 inches DBH or larger are protected; the city says no permit is needed when the owner complies with s. 163.045.
+- Fernandina Beach: protected trees are 5 inches DBH or larger; heritage trees are generally native trees 36 inches DBH or more.
+- Unincorporated St. Johns County: no tree-removal permit on lots under one acre with an existing home unless a specimen tree or in a conservation area or buffer; Ponte Vedra Zoning District lots need a permit for protected trees.
+- Angi 2026 national average tree removal: $750 (range $200-$2,000).
+
+## Guides
+- [Do you need a permit to remove a tree in Florida?](https://colemer.github.io/florida-tree-service-match/guides/florida-tree-removal-permit-rules/): Florida's arborist-documentation exemption for single-family homes, and when local tree rules still apply.
+- [Tree removal rules in Northeast Florida, city by city (2026)](https://colemer.github.io/florida-tree-service-match/guides/northeast-florida-tree-removal-rules-by-city/): Permit thresholds, protected trees and the arborist exemption in St. Augustine, the beaches, St. Johns and Clay counties, Orange Park and Fernandina Beach.
+
+## Service areas
+- [Tree Service in St. Augustine, FL](https://colemer.github.io/florida-tree-service-match/tree-service/st-augustine/): The City of St. Augustine requires a tree removal permit for any tree 3 inches or larger in diameter at breast height; the city lists the permit at $30 through its Planning and Building Department.
+- [Tree Service in St. Augustine Beach, FL](https://colemer.github.io/florida-tree-service-match/tree-service/st-augustine-beach/): St. Augustine Beach requires a Tree Removal Permit before removing a protected tree, and counts severe pruning of 33 percent or more of the canopy as removal.
+- [Tree Service in Ponte Vedra Beach, FL](https://colemer.github.io/florida-tree-service-match/tree-service/ponte-vedra-beach/): Lots in the Ponte Vedra Zoning District are the exception: removing any protected tree needs a Protected Tree Removal Permit, with a $200 application fee and a site plan.
+- [Tree Service in Fruit Cove & St. Johns, FL](https://colemer.github.io/florida-tree-service-match/tree-service/fruit-cove-st-johns/): In unincorporated St. Johns County, removing a tree on a lot under one acre with an existing home does not need a permit unless it is a specimen tree or sits in a conservation area or buffer.
+- [Tree Service in World Golf Village, FL](https://colemer.github.io/florida-tree-service-match/tree-service/world-golf-village/): In unincorporated St. Johns County, removing a tree on a lot under one acre with an existing home does not need a permit unless it is a specimen tree or sits in a conservation area or buffer.
+- [Tree Service in Jacksonville Beach, FL](https://colemer.github.io/florida-tree-service-match/tree-service/jacksonville-beach/): Jacksonville Beach protects any tree 6 inches or more in diameter unless it is specifically listed as unprotected, and a fine can be assessed for removing a protected tree without a permit.
+- [Tree Service in Atlantic Beach & Neptune Beach, FL](https://colemer.github.io/florida-tree-service-match/tree-service/atlantic-beach-neptune-beach/): Atlantic Beach's Chapter 23 requires a tree or vegetation removal permit for regulated trees, with exemptions for trees destroyed in an emergency and for imminent safety hazards confirmed by the administrator.
+- [Tree Service in Fleming Island, FL](https://colemer.github.io/florida-tree-service-match/tree-service/fleming-island/): Unincorporated Clay County's tree-protection article exempts single-family lots of record before January 28, 2003 and single-family lots not in a major subdivision created after that date; confirm with Clay County Zoning.
+- [Tree Service in Orange Park, FL](https://colemer.github.io/florida-tree-service-match/tree-service/orange-park/): The Town of Orange Park sets mitigation for protected trees removed and not replaced: $148 per inch DBH, or $165 per inch for historic protected trees.
+- [Tree Service in Fernandina Beach, FL](https://colemer.github.io/florida-tree-service-match/tree-service/fernandina-beach/): Fernandina Beach protects healthy non-invasive trees 5 inches DBH or larger and requires a removal permit for them.
+
+## Services
+- [Tree Removal](https://colemer.github.io/florida-tree-service-match/services/tree-removal/)
+- [Tree Trimming & Pruning](https://colemer.github.io/florida-tree-service-match/services/tree-trimming/)
+- [Storm Tree Cleanup](https://colemer.github.io/florida-tree-service-match/services/storm-tree-cleanup/)
+
+## About
+- [About and how it works](https://colemer.github.io/florida-tree-service-match/about/)
+- [Partner contractors](https://colemer.github.io/florida-tree-service-match/partners/)
+- [Privacy](https://colemer.github.io/florida-tree-service-match/privacy/)
+- [Terms](https://colemer.github.io/florida-tree-service-match/terms/)

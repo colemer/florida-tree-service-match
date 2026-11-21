@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /florida-tree-service-match/thank-you/
+
+Sitemap: https://colemer.github.io/florida-tree-service-match/sitemap.xml
