@@ -11,10 +11,14 @@ Last updated: 2026-11-21
 - Fernandina Beach: protected trees are 5 inches DBH or larger; heritage trees are generally native trees 36 inches DBH or more.
 - Unincorporated St. Johns County: no tree-removal permit on lots under one acre with an existing home unless a specimen tree or in a conservation area or buffer; Ponte Vedra Zoning District lots need a permit for protected trees.
 - Angi 2026 national average tree removal: $750 (range $200-$2,000).
+- Tampa requires a permit to remove any tree 5 inches DBH or larger (invasives excluded); 32-inch grand trees need public notice (City of Tampa Natural Resources).
+- Winter Park's residential tree removal permit is $35; replacement trees must be Florida #1 grade, at least 3-inch caliper, planted within 30 days (City of Winter Park).
 
 ## Guides
 - [Do you need a permit to remove a tree in Florida?](https://colemer.github.io/florida-tree-service-match/guides/florida-tree-removal-permit-rules/): Florida's arborist-documentation exemption for single-family homes, and when local tree rules still apply.
 - [Tree removal rules in Northeast Florida, city by city (2026)](https://colemer.github.io/florida-tree-service-match/guides/northeast-florida-tree-removal-rules-by-city/): Permit thresholds, protected trees and the arborist exemption in St. Augustine, the beaches, St. Johns and Clay counties, Orange Park and Fernandina Beach.
+- [Tree removal rules and costs in Tampa Bay, city by city (2026)](https://colemer.github.io/florida-tree-service-match/guides/tampa-bay-tree-removal-rules-costs/): Protected-tree sizes, permit fees and exemptions in Tampa, St. Pete, Clearwater, Largo, Dunedin and Tarpon Springs, plus 2026 national costs.
+- [Tree removal rules and costs around Orlando, city by city (2026)](https://colemer.github.io/florida-tree-service-match/guides/orlando-area-tree-removal-rules-costs/): Permit fees, replacement rules and exemptions in Winter Park, Oviedo, Sanford, Kissimmee, Winter Garden and Lake Mary, plus 2026 national costs.
 
 ## Service areas
 - [Tree Service in St. Augustine, FL](https://colemer.github.io/florida-tree-service-match/tree-service/st-augustine/): The City of St. Augustine requires a tree removal permit for any tree 3 inches or larger in diameter at breast height; the city lists the permit at $30 through its Planning and Building Department.
